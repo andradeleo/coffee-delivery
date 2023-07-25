@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/dev-andradeleo" target="_blank">Author</a>
 </p>
 
-<hr> -->
 
 <br>
 
