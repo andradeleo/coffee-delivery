@@ -6,7 +6,6 @@
 
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -15,10 +14,7 @@
 
 
 <br>
-
-## :dart: About ##
-
-A ideia por trás do projeto é unir o universo da tecnologia com a paixão pelo café, criando uma plataforma de pedidos de café online. A proposta do "Coffee Delivery" é criar uma solução completa e intuitiva, que permita aos usuários fazerem pedidos de café com apenas alguns cliques.
+<br>
 
 
 ## :rocket: Technologies ##
@@ -34,6 +30,9 @@ The following tools were used in this project:
 - Immer
 - Styled Components
 - Vite
+
+<br>
+<br>
 
 ## :white_check_mark: Requirements ##
 
