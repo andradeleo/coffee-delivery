@@ -43,7 +43,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/andradeleo/isauuudavel-app
+$ git clone [https://github.com/andradeleo/isauuudavel-app](https://github.com/andradeleo/coffee-delivery.git)
 
 # Install dependencies
 $ npm install
