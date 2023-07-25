@@ -51,6 +51,9 @@ $ npm install
 $ npm run dev
 ```
 
+<br>
+<br>
+
 Made with :heart: by <a href="https://github.com/andradeleo" target="_blank">andradeleo</a>
 
 &#xa0;
